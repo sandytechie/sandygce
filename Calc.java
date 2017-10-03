@@ -1,3 +1,7 @@
+/*applet using perform add&sub&mul&div
+input-two number
+output-add/sub/mu/div of two number*/
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
